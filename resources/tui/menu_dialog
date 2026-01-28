@@ -1,0 +1,8 @@
+ID=0
+VALUE=Hello, World!
+FUNCTION=testfunction_one
+SUBMENU=1
+ID=1
+VALUE=Ohaiyou Sekai!
+FUNCTION=testfunction_two
+SUBMENU=NONE
